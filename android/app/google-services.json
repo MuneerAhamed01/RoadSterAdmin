@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213330080070",
+    "project_id": "roadster-c0891",
+    "storage_bucket": "roadster-c0891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213330080070:android:3e5484c5f366a019f4b547",
+        "android_client_info": {
+          "package_name": "com.example.roadster_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213330080070-riedc04gnuin1hg4qga85tuq1dupdntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaEgz6_COOpabAuayEizMEfWTQvuZB94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213330080070-riedc04gnuin1hg4qga85tuq1dupdntk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
